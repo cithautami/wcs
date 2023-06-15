@@ -1,16 +1,11 @@
----
-title: '__Web Crawling & Scraping__'
-author: "Arien Citha Utami^[Mahasiswa Prodi Statistika dan Sains Data, IPB University.
-  NIM: G1501221008. Email: ariencithautami@apps.ipb.ac.id]"
-date: "`r Sys.Date()`"
-output:
-  html_document:
-    theme: cerulean
-    toc: yes
-    toc_float: yes
-  pdf_document:
-    toc: yes
----
+<div align="center">
+
+## Web Crawling & Scraping
+
+### Created by:
+`Arien Citha Utami` `(G1501221008)`
+Rpubs: https://rpubs.com/cithautami/wcs
+STA1562 Manajemen Database Statistika
 
 # **Packages**
 
