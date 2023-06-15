@@ -1,7 +1,7 @@
 # Web Crawling & Scraping
 
 ## Created by:
-`Arien Citha Utami` `(G1501221008)`
+`Arien Citha Utami: (G1501221008)`
 `Rpubs: https://rpubs.com/cithautami/wcs`
 `STA1562 Manajemen Database Statistika`
 
